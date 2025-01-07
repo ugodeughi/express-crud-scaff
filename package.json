@@ -1,0 +1,25 @@
+{
+  "name": "express-crud-scaff",
+  "version": "0.0.1",
+  "description": "A CLI tool for generating a custom Node.js/Express CRUD",
+  "main": "bin/my-scaffold.js",
+  "type": "module",
+  "bin": {
+    "express-crud-scaff": "./bin/express-crud-scaff.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "scaffold",
+    "cli"
+  ],
+  "author": "Ugo de Ughi",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "inquirer": "^8.2.0"
+  }
+}
