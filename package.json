@@ -1,7 +1,7 @@
 {
   "name": "express-crud-scaff",
   "version": "0.0.1",
-  "description": "A CLI tool for generating a custom Node.js/Express CRUD",
+  "description": "A CLI tool to scaffold a Node.js/Express project with CRUD structure",
   "main": "bin/my-scaffold.js",
   "type": "module",
   "bin": {

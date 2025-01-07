@@ -35,3 +35,6 @@ Temporary Items
 *.icloud
 
 node_modules/
+tests
+README.md
+LICENSE
